@@ -56,35 +56,7 @@
     left: 89px;
 }
 
-/*slide 2*/
-.slide_2 .element_1{
-	 top: 0;
-    left: 0;
-    width: 300px;
-    z-index: 1;
-}
-.slide_2 .element_2{
-	 top: 4px;
-    left: 110px;
-    z-index: 2;
-}
-.slide_2 .element_3{
-	 top: 54px;
-    left: 106px;
-    z-index: 2;
-}
-.slide_2 .element_4{
-	top: 138px;
-    left: 79px;
-}
-.slide_2 .element_5{
-	top: 215px;
-    left: 90px;
-}
-.slide_2 .element_5 img{
-	width: 115px;
-	height: 25px;
-}
+
 @keyframes pulse {
         0% {
         	transform: scaleX(1)
